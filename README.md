@@ -21,7 +21,7 @@ okhttp3封装网络请求 get post 文件上传 下载
 
 - 截图
 
-![](https://github.com/liufx/OkHttpUtils/screenshot/code.jpg)
+![](https://github.com/liufx/OkHttpUtils/blob/master/screenshot/code.png)
 
 - gif
 
