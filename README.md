@@ -25,12 +25,7 @@ okhttp3封装网络请求 get post 文件上传 下载
 
 - gif
 
-   <img src="/screenshot/radio.gif" width = "240" height = "360" alt="帧动画">
-   <img src="/screenshot/anim2_alpha.gif" width = "240" height = "360" alt="透明度动画">
-   <img src="/screenshot/anim3_scale.gif" width = "240" height = "360" alt="缩放动画">
-   <img src="/screenshot/anim4_tran.gif" width = "240" height = "360" alt="平移动画">
-   <img src="/screenshot/anim5_rotate.gif" width = "240" height = "360" alt="旋转动画">
-   <img src="/screenshot/animator6_value.gif" width = "240" height = "360"alt="属性动画" >
+   <img src="/screenshot/radio.gif" width = "240" height = "360" alt="效果">
 
 ## 具体实现
 ```Java
